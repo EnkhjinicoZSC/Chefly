@@ -2,7 +2,7 @@
 
 This GitHub repo serves as a codebase for my final year capstone project, which is a web app platform for connecting chefs with customers. Users are able to find chefs based on their preferences with the help of a recommendation system and request chefs at a proposed time based on the availabilities of chefs. Chefs as users are able to accept or decline the request. 
 
-Frameworks: Django and React
+Frameworks: Django, Bootstrap, JQuery
 
 ## To initialize:
 
