@@ -1,0 +1,10 @@
+ .navbar {
+      background-color: #fff; 
+}
+.navbar-brand, .nav-link {
+    color: #000 !important; 
+}
+.nav-item:not(:last-child) {
+    margin-right: 1rem; 
+}
+
